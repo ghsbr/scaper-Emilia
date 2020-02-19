@@ -1,0 +1,927 @@
+{
+  "_items": [
+    {
+      "_id": "2000003",
+      "altitudine": 60,
+      "tipo_zona": "residenziale",
+      "per_mappa": true,
+      "nome_rete": "Pianura Ovest",
+      "comune": "PARMA",
+      "parametri_misurati": "As (Arsenico); BaP (Benzo(a)pyrene); Cd (Cadmio); N Aliquote; Ni (Nickel); NO (Monossido di azoto); NOX (Ossidi di azoto); NO2 (Biossido di azoto); O3 (Ozono); Pb (Piombo); PM10; PM2.5; PM2.5 (aggiuntivo 1)",
+      "sigla_provincia": "PR",
+      "nome": "CITTADELLA",
+      "cod_ue": "IT0804A",
+      "per_dati": true,
+      "tipo_stazione": "Fondo",
+      "cod_winair": "803401",
+      "loc": {
+        "coordinates": [
+          10.330985,
+          44.792418999999995
+        ],
+        "type": "Point"
+      },
+      "tipo_emissione": "Processi combustivi di commercio, pubb. amministrazione e residenze",
+      "per_bollettino": true,
+      "indirizzo": "PARCO CITTADELLA",
+      "provincia": "PARMA",
+      "zona": "Urbana",
+      "_updated": "Wed, 19 Feb 2020 14:25:48 GMT",
+      "_created": "Wed, 02 Jan 2019 09:12:31 GMT",
+      "_etag": "a6c4f06f17a3f7c09db1f465413d86ddd53eb39f",
+      "_links": {
+        "self": {
+          "title": "Qualit\u00e0 dell'aria - Anagrafica delle stazioni",
+          "href": "qa_stazioni/2000003"
+        }
+      }
+    },
+    {
+      "_id": "2000004",
+      "altitudine": 55,
+      "tipo_zona": "residenziale/commerciale",
+      "per_mappa": true,
+      "nome_rete": "Pianura Ovest",
+      "comune": "PARMA",
+      "parametri_misurati": "C6H4(CH3)2 (o-xylene); C6H4(CH3)2 (Xyleni); C6H5-CH2-CH3 (Etil Benzene); C6H5-CH3 (Toluene); C6H6 (Benzene); NO (Monossido di azoto); NOX (Ossidi di azoto); NO2 (Biossido di azoto); PM10",
+      "sigla_provincia": "PR",
+      "nome": "MONTEBELLO",
+      "cod_ue": "IT1105A",
+      "per_dati": true,
+      "tipo_stazione": "Traffico",
+      "cod_winair": "803405",
+      "loc": {
+        "coordinates": [
+          10.33647728,
+          44.786636353
+        ],
+        "type": "Point"
+      },
+      "tipo_emissione": "Processi combustivi di commercio, pubb. amministrazione e residenze",
+      "per_bollettino": true,
+      "indirizzo": "VIA MONTEBELLO",
+      "provincia": "PARMA",
+      "zona": "Urbana",
+      "_updated": "Wed, 19 Feb 2020 14:25:48 GMT",
+      "_created": "Wed, 02 Jan 2019 09:12:31 GMT",
+      "_etag": "941bdf79eea107857ecbfbf0f919f57e91151c8b",
+      "_links": {
+        "self": {
+          "title": "Qualit\u00e0 dell'aria - Anagrafica delle stazioni",
+          "href": "qa_stazioni/2000004"
+        }
+      }
+    },
+    {
+      "_id": "2000214",
+      "altitudine": 202,
+      "tipo_zona": "agricola/naturale",
+      "per_mappa": true,
+      "nome_rete": "Pianura Ovest",
+      "comune": "LANGHIRANO",
+      "parametri_misurati": "NO (Monossido di azoto); NOX (Ossidi di azoto); NO2 (Biossido di azoto); O3 (Ozono); PM10; PM2.5",
+      "sigla_provincia": "PR",
+      "nome": "BADIA",
+      "cod_ue": "IT1911A",
+      "per_dati": true,
+      "tipo_stazione": "Fondo",
+      "cod_winair": "803410",
+      "loc": {
+        "coordinates": [
+          10.289367,
+          44.658226
+        ],
+        "type": "Point"
+      },
+      "tipo_emissione": "Agricoltura",
+      "per_bollettino": true,
+      "indirizzo": "BADIA DI TORRECHIARA - TORRECHIARA",
+      "provincia": "PARMA",
+      "zona": "Rurale",
+      "_updated": "Wed, 19 Feb 2020 14:25:48 GMT",
+      "_created": "Wed, 02 Jan 2019 09:12:32 GMT",
+      "_etag": "ffcfcb6005247aa63684225d61f99ed4df676d74",
+      "_links": {
+        "self": {
+          "title": "Qualit\u00e0 dell'aria - Anagrafica delle stazioni",
+          "href": "qa_stazioni/2000214"
+        }
+      }
+    },
+    {
+      "_id": "2000219",
+      "altitudine": 30,
+      "tipo_zona": "residenziale",
+      "per_mappa": true,
+      "nome_rete": "Pianura Ovest",
+      "comune": "COLORNO",
+      "parametri_misurati": "BaP (Benzo(a)pyrene); Hg (Mercurio); N Aliquote; NO (Monossido di azoto); NOX (Ossidi di azoto); NO2 (Biossido di azoto); O3 (Ozono); PM1; PM10; PM10 (aggiuntivo 1); PM2.5; PM2.5 (aggiuntivo 1); P>0.28; P>0.4; P>0.5; P>0.7; P>1.1; P>2; P>3; P>5",
+      "sigla_provincia": "PR",
+      "nome": "SARAGAT",
+      "cod_ue": "IT1910A",
+      "per_dati": true,
+      "tipo_stazione": "Fondo",
+      "cod_winair": "803409",
+      "loc": {
+        "coordinates": [
+          10.371914,
+          44.925962999999996
+        ],
+        "type": "Point"
+      },
+      "tipo_emissione": "Processi combustivi di commercio, pubb. amministrazione e residenze",
+      "per_bollettino": true,
+      "indirizzo": "VIA SARAGAT",
+      "provincia": "PARMA",
+      "zona": "Suburbana",
+      "_updated": "Wed, 19 Feb 2020 14:25:48 GMT",
+      "_created": "Wed, 02 Jan 2019 09:12:32 GMT",
+      "_etag": "1ef7ee1e5131b2e70e4979735aeb5eac37e2f407",
+      "_links": {
+        "self": {
+          "title": "Qualit\u00e0 dell'aria - Anagrafica delle stazioni",
+          "href": "qa_stazioni/2000219"
+        }
+      }
+    },
+    {
+      "_id": "3000001",
+      "altitudine": 150,
+      "tipo_zona": "residenziale",
+      "per_mappa": true,
+      "nome_rete": "Pianura Ovest",
+      "comune": "CASTELLARANO",
+      "parametri_misurati": "NO (Monossido di azoto); NOX (Ossidi di azoto); NO2 (Biossido di azoto); O3 (Ozono); PM10; PM2.5",
+      "sigla_provincia": "RE",
+      "nome": "CASTELLARANO",
+      "cod_ue": "IT0903A",
+      "per_dati": true,
+      "tipo_stazione": "Fondo",
+      "cod_winair": "803502",
+      "loc": {
+        "coordinates": [
+          10.733905,
+          44.516242
+        ],
+        "type": "Point"
+      },
+      "tipo_emissione": "Altro",
+      "per_bollettino": true,
+      "indirizzo": "VIA REVERBERI - CASTELLARANO",
+      "provincia": "REGGIO EMILIA",
+      "zona": "Suburbana",
+      "_updated": "Wed, 19 Feb 2020 14:25:49 GMT",
+      "_created": "Wed, 02 Jan 2019 09:12:32 GMT",
+      "_etag": "5c7d7514cda51dabc8ff5bc501337ff802730915",
+      "_links": {
+        "self": {
+          "title": "Qualit\u00e0 dell'aria - Anagrafica delle stazioni",
+          "href": "qa_stazioni/3000001"
+        }
+      }
+    },
+    {
+      "_id": "3000007",
+      "altitudine": 55,
+      "tipo_zona": "naturale",
+      "per_mappa": true,
+      "nome_rete": "Pianura Ovest",
+      "comune": "REGGIO NELL'EMILIA",
+      "parametri_misurati": "NO (Monossido di azoto); NOX (Ossidi di azoto); NO2 (Biossido di azoto); O3 (Ozono); PM10; PM2.5",
+      "sigla_provincia": "RE",
+      "nome": "S. LAZZARO",
+      "cod_ue": "IT0940A",
+      "per_dati": true,
+      "tipo_stazione": "Fondo",
+      "cod_winair": "803508",
+      "loc": {
+        "coordinates": [
+          10.663591,
+          44.689042
+        ],
+        "type": "Point"
+      },
+      "tipo_emissione": "Natura",
+      "per_bollettino": true,
+      "indirizzo": "VIA AMENDOLA - REGGIO EMILIA",
+      "provincia": "REGGIO EMILIA",
+      "zona": "Urbana",
+      "_updated": "Wed, 19 Feb 2020 14:25:49 GMT",
+      "_created": "Wed, 02 Jan 2019 09:12:32 GMT",
+      "_etag": "16efcd002ffa45447f076bdbb9655d6ae7aea1ee",
+      "_links": {
+        "self": {
+          "title": "Qualit\u00e0 dell'aria - Anagrafica delle stazioni",
+          "href": "qa_stazioni/3000007"
+        }
+      }
+    },
+    {
+      "_id": "3000018",
+      "altitudine": 1121,
+      "tipo_zona": "naturale",
+      "per_mappa": true,
+      "nome_rete": "Appennino",
+      "comune": "VILLA MINOZZO",
+      "parametri_misurati": "NO (Monossido di azoto); NOX (Ossidi di azoto); NO2 (Biossido di azoto); PM10",
+      "sigla_provincia": "RE",
+      "nome": "FEBBIO",
+      "cod_ue": "IT1672A",
+      "per_dati": true,
+      "tipo_stazione": "Fondo",
+      "cod_winair": "803515",
+      "loc": {
+        "coordinates": [
+          10.431042,
+          44.300708
+        ],
+        "type": "Point"
+      },
+      "tipo_emissione": "Natura",
+      "per_bollettino": true,
+      "indirizzo": "VIA PROVINCIALE - FEBBIO",
+      "provincia": "REGGIO EMILIA",
+      "zona": "Rurale",
+      "_updated": "Wed, 19 Feb 2020 14:25:49 GMT",
+      "_created": "Wed, 02 Jan 2019 09:12:32 GMT",
+      "_etag": "6056872fef1a2b61278f91c456030ae966c97ff0",
+      "_links": {
+        "self": {
+          "title": "Qualit\u00e0 dell'aria - Anagrafica delle stazioni",
+          "href": "qa_stazioni/3000018"
+        }
+      }
+    },
+    {
+      "_id": "3000022",
+      "altitudine": 22,
+      "tipo_zona": "agricola",
+      "per_mappa": true,
+      "nome_rete": "Pianura Ovest",
+      "comune": "GUASTALLA",
+      "parametri_misurati": "NO (Monossido di azoto); NOX (Ossidi di azoto); NO2 (Biossido di azoto); O3 (Ozono); PM10; PM2.5",
+      "sigla_provincia": "RE",
+      "nome": "S. ROCCO",
+      "cod_ue": "IT1914A",
+      "per_dati": true,
+      "tipo_stazione": "Fondo",
+      "cod_winair": "803517",
+      "loc": {
+        "coordinates": [
+          10.664776999999999,
+          44.873726999999995
+        ],
+        "type": "Point"
+      },
+      "tipo_emissione": "Agricoltura",
+      "per_bollettino": true,
+      "indirizzo": "VIA DELLA MADONNINA - SAN ROCCO",
+      "provincia": "REGGIO EMILIA",
+      "zona": "Rurale",
+      "_updated": "Wed, 19 Feb 2020 14:25:49 GMT",
+      "_created": "Wed, 02 Jan 2019 09:12:32 GMT",
+      "_etag": "d5c0257e15405fb34f4c59c3b98b94fdc6a67efb",
+      "_links": {
+        "self": {
+          "title": "Qualit\u00e0 dell'aria - Anagrafica delle stazioni",
+          "href": "qa_stazioni/3000022"
+        }
+      }
+    },
+    {
+      "_id": "3000025",
+      "altitudine": 59,
+      "tipo_zona": "residenziale",
+      "per_mappa": true,
+      "nome_rete": "Pianura Ovest",
+      "comune": "REGGIO NELL'EMILIA",
+      "parametri_misurati": "CO (Monossido di carbonio); C6H4(CH3)2 (o-xylene); C6H4(CH3)2 (Xyleni); C6H5-CH2-CH3 (Etil Benzene); C6H5-CH3 (Toluene); C6H6 (Benzene); NO (Monossido di azoto); NOX (Ossidi di azoto); NO2 (Biossido di azoto); PM10",
+      "sigla_provincia": "RE",
+      "nome": "TIMAVO",
+      "cod_ue": "IT2156A",
+      "per_dati": true,
+      "tipo_stazione": "Traffico",
+      "cod_winair": "803518",
+      "loc": {
+        "coordinates": [
+          10.622759,
+          44.699549999999995
+        ],
+        "type": "Point"
+      },
+      "tipo_emissione": "Trasporto su strada",
+      "per_bollettino": true,
+      "indirizzo": "VIALE TIMAVO - NUOVA",
+      "provincia": "REGGIO EMILIA",
+      "zona": "Urbana",
+      "_updated": "Wed, 19 Feb 2020 14:25:49 GMT",
+      "_created": "Wed, 02 Jan 2019 09:12:32 GMT",
+      "_etag": "e940603ce257803a36cca4372f84548eea46a950",
+      "_links": {
+        "self": {
+          "title": "Qualit\u00e0 dell'aria - Anagrafica delle stazioni",
+          "href": "qa_stazioni/3000025"
+        }
+      }
+    },
+    {
+      "_id": "4000002",
+      "altitudine": 39,
+      "tipo_zona": "residenziale/commerciale",
+      "per_mappa": true,
+      "nome_rete": "Pianura Ovest",
+      "comune": "MODENA",
+      "parametri_misurati": "As (Arsenico); Cd (Cadmio); C6H4(CH3)2 (o-xylene); C6H4(CH3)2 (Xyleni); C6H5-CH2-CH3 (Etil Benzene); C6H5-CH3 (Toluene); C6H6 (Benzene); N Aliquote; Ni (Nickel); NO (Monossido di azoto); NOX (Ossidi di azoto); NO2 (Biossido di azoto); Pb (Piombo); PM10; PTS; PTS (aggiuntivo 1)",
+      "sigla_provincia": "MO",
+      "nome": "GIARDINI",
+      "cod_ue": "IT0721A",
+      "per_dati": true,
+      "tipo_stazione": "Traffico",
+      "cod_winair": "803613",
+      "loc": {
+        "coordinates": [
+          10.905724,
+          44.636984999999996
+        ],
+        "type": "Point"
+      },
+      "tipo_emissione": "Trasporto su strada",
+      "per_bollettino": true,
+      "indirizzo": "VIA GIARDINI",
+      "provincia": "MODENA",
+      "zona": "Urbana",
+      "_updated": "Wed, 19 Feb 2020 14:25:49 GMT",
+      "_created": "Wed, 02 Jan 2019 09:12:32 GMT",
+      "_etag": "a38a6216b54c76d6339c23c9155af9974c58dbf4",
+      "_links": {
+        "self": {
+          "title": "Qualit\u00e0 dell'aria - Anagrafica delle stazioni",
+          "href": "qa_stazioni/4000002"
+        }
+      }
+    },
+    {
+      "_id": "4000012",
+      "altitudine": 25,
+      "tipo_zona": "residenziale",
+      "per_mappa": true,
+      "nome_rete": "Pianura Ovest",
+      "comune": "CARPI",
+      "parametri_misurati": "NO (Monossido di azoto); NOX (Ossidi di azoto); NO2 (Biossido di azoto); O3 (Ozono); PM10",
+      "sigla_provincia": "MO",
+      "nome": "REMESINA",
+      "cod_ue": "IT1152A",
+      "per_dati": true,
+      "tipo_stazione": "Fondo",
+      "cod_winair": "803603",
+      "loc": {
+        "coordinates": [
+          10.884255,
+          44.800377
+        ],
+        "type": "Point"
+      },
+      "tipo_emissione": "Processi combustivi di commercio, pubb. amministrazione e residenze",
+      "per_bollettino": true,
+      "indirizzo": "VIA REMESINA",
+      "provincia": "MODENA",
+      "zona": "Suburbana",
+      "_updated": "Wed, 19 Feb 2020 14:25:49 GMT",
+      "_created": "Wed, 02 Jan 2019 09:12:32 GMT",
+      "_etag": "c03092fc3134777fd7de4a66b552a3a7849fd989",
+      "_links": {
+        "self": {
+          "title": "Qualit\u00e0 dell'aria - Anagrafica delle stazioni",
+          "href": "qa_stazioni/4000012"
+        }
+      }
+    },
+    {
+      "_id": "4000022",
+      "altitudine": 30,
+      "tipo_zona": "residenziale/commerciale",
+      "per_mappa": true,
+      "nome_rete": "Pianura Ovest",
+      "comune": "MODENA",
+      "parametri_misurati": "As (Arsenico); BaP (Benzo(a)pyrene); Cd (Cadmio); N Aliquote; Ni (Nickel); NO (Monossido di azoto); NOX (Ossidi di azoto); NO2 (Biossido di azoto); O3 (Ozono); Pb (Piombo); PM10; PM2.5",
+      "sigla_provincia": "MO",
+      "nome": "PARCO FERRARI",
+      "cod_ue": "IT1771A",
+      "per_dati": true,
+      "tipo_stazione": "Fondo",
+      "cod_winair": "803624",
+      "loc": {
+        "coordinates": [
+          10.907312,
+          44.651568999999995
+        ],
+        "type": "Point"
+      },
+      "tipo_emissione": "Processi combustivi di commercio, pubb. amministrazione e residenze",
+      "per_bollettino": true,
+      "indirizzo": "PARCO FERRARI",
+      "provincia": "MODENA",
+      "zona": "Urbana",
+      "_updated": "Wed, 19 Feb 2020 14:25:49 GMT",
+      "_created": "Wed, 02 Jan 2019 09:12:32 GMT",
+      "_etag": "89380b60c4d939e61d0f76f5158b9995d574a224",
+      "_links": {
+        "self": {
+          "title": "Qualit\u00e0 dell'aria - Anagrafica delle stazioni",
+          "href": "qa_stazioni/4000022"
+        }
+      }
+    },
+    {
+      "_id": "4000110",
+      "altitudine": 131,
+      "tipo_zona": "residenziale/commerciale/industriale",
+      "per_mappa": true,
+      "nome_rete": "Pianura Ovest",
+      "comune": "FIORANO MODENESE",
+      "parametri_misurati": "NO (Monossido di azoto); NOX (Ossidi di azoto); NO2 (Biossido di azoto); PM10",
+      "sigla_provincia": "MO",
+      "nome": "SAN FRANCESCO",
+      "cod_ue": "IT1920A",
+      "per_dati": true,
+      "tipo_stazione": "Traffico",
+      "cod_winair": "803625",
+      "loc": {
+        "coordinates": [
+          10.819877625,
+          44.542152404999996
+        ],
+        "type": "Point"
+      },
+      "tipo_emissione": "Trasporto su strada",
+      "per_bollettino": true,
+      "indirizzo": "VIA SAN FRANCESCO",
+      "provincia": "MODENA",
+      "zona": "Urbana",
+      "_updated": "Wed, 19 Feb 2020 14:25:49 GMT",
+      "_created": "Wed, 02 Jan 2019 09:12:32 GMT",
+      "_etag": "08cdd3d182441b938292f51820ad516fca12e2d2",
+      "_links": {
+        "self": {
+          "title": "Qualit\u00e0 dell'aria - Anagrafica delle stazioni",
+          "href": "qa_stazioni/4000110"
+        }
+      }
+    },
+    {
+      "_id": "4000152",
+      "altitudine": 4,
+      "tipo_zona": "agricola/naturale",
+      "per_mappa": true,
+      "nome_rete": "Pianura Ovest",
+      "comune": "MIRANDOLA",
+      "parametri_misurati": "NO (Monossido di azoto); NOX (Ossidi di azoto); NO2 (Biossido di azoto); O3 (Ozono); PM10; PM2.5",
+      "sigla_provincia": "MO",
+      "nome": "GAVELLO",
+      "cod_ue": "IT1921A",
+      "per_dati": true,
+      "tipo_stazione": "Fondo",
+      "cod_winair": "803626",
+      "loc": {
+        "coordinates": [
+          11.178946,
+          44.928768999999996
+        ],
+        "type": "Point"
+      },
+      "tipo_emissione": "Agricoltura",
+      "per_bollettino": true,
+      "indirizzo": "VIA GAZZI - GAVELLO",
+      "provincia": "MODENA",
+      "zona": "Rurale",
+      "_updated": "Wed, 19 Feb 2020 14:25:49 GMT",
+      "_created": "Wed, 02 Jan 2019 09:12:32 GMT",
+      "_etag": "1efd32fe8307be2d2a0d5313c469c3f44bfa8079",
+      "_links": {
+        "self": {
+          "title": "Qualit\u00e0 dell'aria - Anagrafica delle stazioni",
+          "href": "qa_stazioni/4000152"
+        }
+      }
+    },
+    {
+      "_id": "4000155",
+      "altitudine": 118,
+      "tipo_zona": "residenziale/commerciale/industriale",
+      "per_mappa": true,
+      "nome_rete": "Pianura Ovest",
+      "comune": "SASSUOLO",
+      "parametri_misurati": "NO (Monossido di azoto); NOX (Ossidi di azoto); NO2 (Biossido di azoto); O3 (Ozono); PM10; PM2.5",
+      "sigla_provincia": "MO",
+      "nome": "PARCO EDILCARANI",
+      "cod_ue": "IT2073A",
+      "per_dati": true,
+      "tipo_stazione": "Fondo",
+      "cod_winair": "803628",
+      "loc": {
+        "coordinates": [
+          10.792358398000001,
+          44.540382385
+        ],
+        "type": "Point"
+      },
+      "tipo_emissione": "Processi combustivi di commercio, pubb. amministrazione e residenze",
+      "per_bollettino": true,
+      "indirizzo": "PARCO EDILCARANI",
+      "provincia": "MODENA",
+      "zona": "Urbana",
+      "_updated": "Wed, 19 Feb 2020 14:25:49 GMT",
+      "_created": "Wed, 02 Jan 2019 09:12:32 GMT",
+      "_etag": "e9b9b75d4ab589b9d1c5654713c447e17a1b4079",
+      "_links": {
+        "self": {
+          "title": "Qualit\u00e0 dell'aria - Anagrafica delle stazioni",
+          "href": "qa_stazioni/4000155"
+        }
+      }
+    },
+    {
+      "_id": "5000007",
+      "altitudine": 210,
+      "tipo_zona": "residenziale",
+      "per_mappa": true,
+      "nome_rete": "Pianura Ovest",
+      "comune": "LUGAGNANO VAL D'ARDA",
+      "parametri_misurati": "NO (Monossido di azoto); NOX (Ossidi di azoto); NO2 (Biossido di azoto); O3 (Ozono); PM10",
+      "sigla_provincia": "PC",
+      "nome": "LUGAGNANO",
+      "cod_ue": "IT0544A",
+      "per_dati": true,
+      "tipo_stazione": "Fondo",
+      "cod_winair": "803306",
+      "loc": {
+        "coordinates": [
+          9.830369,
+          44.82389
+        ],
+        "type": "Point"
+      },
+      "tipo_emissione": "Processi produttivi",
+      "per_bollettino": true,
+      "indirizzo": "VIA FERMI - LUGAGNANO VAL D'ARDA",
+      "provincia": "PIACENZA",
+      "zona": "Suburbana",
+      "_updated": "Wed, 19 Feb 2020 14:25:49 GMT",
+      "_created": "Wed, 02 Jan 2019 09:12:33 GMT",
+      "_etag": "1e0bf6d9cf61022ce122ad96896f3ab026bc9884",
+      "_links": {
+        "self": {
+          "title": "Qualit\u00e0 dell'aria - Anagrafica delle stazioni",
+          "href": "qa_stazioni/5000007"
+        }
+      }
+    },
+    {
+      "_id": "5000033",
+      "altitudine": 61,
+      "tipo_zona": "residenziale",
+      "per_mappa": true,
+      "nome_rete": "Pianura Ovest",
+      "comune": "PIACENZA",
+      "parametri_misurati": "CO (Monossido di carbonio); C6H4(CH3)2 (o-xylene); C6H4(CH3)2 (Xyleni); C6H5-CH2-CH3 (Etil Benzene); C6H5-CH3 (Toluene); C6H6 (Benzene); NO (Monossido di azoto); NOX (Ossidi di azoto); NO2 (Biossido di azoto); PM10",
+      "sigla_provincia": "PC",
+      "nome": "GIORDANI-FARNESE",
+      "cod_ue": "IT1923A",
+      "per_dati": true,
+      "tipo_stazione": "Traffico",
+      "cod_winair": "803320",
+      "loc": {
+        "coordinates": [
+          9.693265,
+          45.04884
+        ],
+        "type": "Point"
+      },
+      "tipo_emissione": "Trasporto su strada",
+      "per_bollettino": true,
+      "indirizzo": "VIA GIORDANI - PIACENZA",
+      "provincia": "PIACENZA",
+      "zona": "Urbana",
+      "_updated": "Wed, 19 Feb 2020 14:25:49 GMT",
+      "_created": "Wed, 02 Jan 2019 09:12:33 GMT",
+      "_etag": "3e97556cee2c7fdc8d6d1c83ed7431d9049f02c1",
+      "_links": {
+        "self": {
+          "title": "Qualit\u00e0 dell'aria - Anagrafica delle stazioni",
+          "href": "qa_stazioni/5000033"
+        }
+      }
+    },
+    {
+      "_id": "5000062",
+      "altitudine": 50,
+      "tipo_zona": "agricola",
+      "per_mappa": true,
+      "nome_rete": "Pianura Ovest",
+      "comune": "BESENZONE",
+      "parametri_misurati": "NO (Monossido di azoto); NOX (Ossidi di azoto); NO2 (Biossido di azoto); O3 (Ozono); PM10; PM2.5",
+      "sigla_provincia": "PC",
+      "nome": "BESENZONE",
+      "cod_ue": "IT1924A",
+      "per_dati": true,
+      "tipo_stazione": "Fondo",
+      "cod_winair": "803321",
+      "loc": {
+        "coordinates": [
+          10.019200999999999,
+          44.9895
+        ],
+        "type": "Point"
+      },
+      "tipo_emissione": "Agricoltura",
+      "per_bollettino": true,
+      "indirizzo": "VIA PAVESA C/O CIMITERO - BERSANO",
+      "provincia": "PIACENZA",
+      "zona": "Rurale",
+      "_updated": "Wed, 19 Feb 2020 14:25:49 GMT",
+      "_created": "Wed, 02 Jan 2019 09:12:33 GMT",
+      "_etag": "3d4c10dc85c77d10fae42fab0cf78b22f95341b1",
+      "_links": {
+        "self": {
+          "title": "Qualit\u00e0 dell'aria - Anagrafica delle stazioni",
+          "href": "qa_stazioni/5000062"
+        }
+      }
+    },
+    {
+      "_id": "5000065",
+      "altitudine": 61,
+      "tipo_zona": "residenziale",
+      "per_mappa": true,
+      "nome_rete": "Pianura Ovest",
+      "comune": "PIACENZA",
+      "parametri_misurati": "NO (Monossido di azoto); NOX (Ossidi di azoto); NO2 (Biossido di azoto); O3 (Ozono); PM10; PM2.5",
+      "sigla_provincia": "PC",
+      "nome": "PARCO MONTECUCCO",
+      "cod_ue": "IT1975A",
+      "per_dati": true,
+      "tipo_stazione": "Fondo",
+      "cod_winair": "803322",
+      "loc": {
+        "coordinates": [
+          9.669349,
+          45.038543999999995
+        ],
+        "type": "Point"
+      },
+      "tipo_emissione": "Processi combustivi di commercio, pubb. amministrazione e residenze",
+      "per_bollettino": true,
+      "indirizzo": "VIA R. DE LONGE - PIACENZA",
+      "provincia": "PIACENZA",
+      "zona": "Urbana",
+      "_updated": "Wed, 19 Feb 2020 14:25:50 GMT",
+      "_created": "Wed, 02 Jan 2019 09:12:33 GMT",
+      "_etag": "e0f1231c371374be35866c9b1bdbb54069c73b62",
+      "_links": {
+        "self": {
+          "title": "Qualit\u00e0 dell'aria - Anagrafica delle stazioni",
+          "href": "qa_stazioni/5000065"
+        }
+      }
+    },
+    {
+      "_id": "5000066",
+      "altitudine": 765,
+      "tipo_zona": "agricola/naturale",
+      "per_mappa": true,
+      "nome_rete": "Appennino",
+      "comune": "CORTE BRUGNATELLA",
+      "parametri_misurati": "BaP (Benzo(a)pyrene); N Aliquote; NO (Monossido di azoto); NOX (Ossidi di azoto); NO2 (Biossido di azoto); O3 (Ozono); PM10",
+      "sigla_provincia": "PC",
+      "nome": "CORTE BRUGNATELLA",
+      "cod_ue": "IT2074A",
+      "per_dati": true,
+      "tipo_stazione": "Fondo",
+      "cod_winair": "803323",
+      "loc": {
+        "coordinates": [
+          9.366928,
+          44.734728
+        ],
+        "type": "Point"
+      },
+      "tipo_emissione": "",
+      "per_bollettino": true,
+      "indirizzo": "LOC. CARANA - CARANA",
+      "provincia": "PIACENZA",
+      "zona": "Rurale",
+      "_updated": "Wed, 19 Feb 2020 14:25:50 GMT",
+      "_created": "Wed, 02 Jan 2019 09:12:33 GMT",
+      "_etag": "80af1d805d0166170b7be6547759648bd55dcf34",
+      "_links": {
+        "self": {
+          "title": "Qualit\u00e0 dell'aria - Anagrafica delle stazioni",
+          "href": "qa_stazioni/5000066"
+        }
+      }
+    },
+    {
+      "_id": "6000010",
+      "altitudine": 29,
+      "tipo_zona": "residenziale",
+      "per_mappa": true,
+      "nome_rete": "Pianura Est",
+      "comune": "FORLI'",
+      "parametri_misurati": "NO (Monossido di azoto); NOX (Ossidi di azoto); NO2 (Biossido di azoto); O3 (Ozono); PM10; PM2.5",
+      "sigla_provincia": "FC",
+      "nome": "PARCO RESISTENZA",
+      "cod_ue": "IT1048A",
+      "per_dati": true,
+      "tipo_stazione": "Fondo",
+      "cod_winair": "804009",
+      "loc": {
+        "coordinates": [
+          12.04816,
+          44.215153
+        ],
+        "type": "Point"
+      },
+      "tipo_emissione": "Processi combustivi di commercio, pubb. amministrazione e residenze",
+      "per_bollettino": true,
+      "indirizzo": "VIALE SPAZZOLI",
+      "provincia": "FORLI-CESENA",
+      "zona": "Urbana",
+      "_updated": "Wed, 19 Feb 2020 14:25:50 GMT",
+      "_created": "Wed, 02 Jan 2019 09:12:33 GMT",
+      "_etag": "d481300be1e58d1e5f807e3e0e1b875f13432a19",
+      "_links": {
+        "self": {
+          "title": "Qualit\u00e0 dell'aria - Anagrafica delle stazioni",
+          "href": "qa_stazioni/6000010"
+        }
+      }
+    },
+    {
+      "_id": "6000011",
+      "altitudine": 25,
+      "tipo_zona": "residenziale/commerciale",
+      "per_mappa": true,
+      "nome_rete": "Pianura Est",
+      "comune": "FORLI'",
+      "parametri_misurati": "C6H4(CH3)2 (o-xylene); C6H4(CH3)2 (Xyleni); C6H5-CH2-CH3 (Etil Benzene); C6H5-CH3 (Toluene); C6H6 (Benzene); NO (Monossido di azoto); NOX (Ossidi di azoto); NO2 (Biossido di azoto); PM10",
+      "sigla_provincia": "FC",
+      "nome": "ROMA",
+      "cod_ue": "IT0755A",
+      "per_dati": true,
+      "tipo_stazione": "Traffico",
+      "cod_winair": "804010",
+      "loc": {
+        "coordinates": [
+          12.057502,
+          44.215973999999996
+        ],
+        "type": "Point"
+      },
+      "tipo_emissione": "Trasporto su strada",
+      "per_bollettino": true,
+      "indirizzo": "VIA ROMA - FORLI",
+      "provincia": "FORLI-CESENA",
+      "zona": "Urbana",
+      "_updated": "Wed, 19 Feb 2020 14:25:50 GMT",
+      "_created": "Wed, 02 Jan 2019 09:12:33 GMT",
+      "_etag": "b372d0d3d93a76824563f9a0312cdc04023c1f89",
+      "_links": {
+        "self": {
+          "title": "Qualit\u00e0 dell'aria - Anagrafica delle stazioni",
+          "href": "qa_stazioni/6000011"
+        }
+      }
+    },
+    {
+      "_id": "6000014",
+      "altitudine": 41,
+      "tipo_zona": "residenziale/commerciale",
+      "per_mappa": true,
+      "nome_rete": "Pianura Est",
+      "comune": "CESENA",
+      "parametri_misurati": "NO (Monossido di azoto); NOX (Ossidi di azoto); NO2 (Biossido di azoto); PM10",
+      "sigla_provincia": "FC",
+      "nome": "FRANCHINI-ANGELONI",
+      "cod_ue": "IT1670A",
+      "per_dati": true,
+      "tipo_stazione": "Fondo",
+      "cod_winair": "804012",
+      "loc": {
+        "coordinates": [
+          12.244743999999999,
+          44.141382
+        ],
+        "type": "Point"
+      },
+      "tipo_emissione": "Processi combustivi di commercio, pubb. amministrazione e residenze",
+      "per_bollettino": true,
+      "indirizzo": "PIAZZA FRANCHINI ANGELONI",
+      "provincia": "FORLI-CESENA",
+      "zona": "Urbana",
+      "_updated": "Wed, 19 Feb 2020 14:25:50 GMT",
+      "_created": "Wed, 02 Jan 2019 09:12:34 GMT",
+      "_etag": "239761436c044084f5e9bb5bb7c23e603266fedb",
+      "_links": {
+        "self": {
+          "title": "Qualit\u00e0 dell'aria - Anagrafica delle stazioni",
+          "href": "qa_stazioni/6000014"
+        }
+      }
+    },
+    {
+      "_id": "6000031",
+      "altitudine": 32,
+      "tipo_zona": "residenziale",
+      "per_mappa": true,
+      "nome_rete": "Pianura Est",
+      "comune": "SAVIGNANO SUL RUBICONE",
+      "parametri_misurati": "NO (Monossido di azoto); NOX (Ossidi di azoto); NO2 (Biossido di azoto); O3 (Ozono); PM10; PM2.5",
+      "sigla_provincia": "FC",
+      "nome": "SAVIGNANO",
+      "cod_ue": "IT1908A",
+      "per_dati": true,
+      "tipo_stazione": "Fondo",
+      "cod_winair": "804013",
+      "loc": {
+        "coordinates": [
+          12.403328,
+          44.096869
+        ],
+        "type": "Point"
+      },
+      "tipo_emissione": "Processi combustivi di commercio, pubb. amministrazione e residenze",
+      "per_bollettino": true,
+      "indirizzo": "VIA DONATI - SAVIGNANO",
+      "provincia": "FORLI-CESENA",
+      "zona": "Suburbana",
+      "_updated": "Wed, 19 Feb 2020 14:25:50 GMT",
+      "_created": "Wed, 02 Jan 2019 09:12:34 GMT",
+      "_etag": "3230bc26ceab5fecafc8796982de4ccde41e7f97",
+      "_links": {
+        "self": {
+          "title": "Qualit\u00e0 dell'aria - Anagrafica delle stazioni",
+          "href": "qa_stazioni/6000031"
+        }
+      }
+    },
+    {
+      "_id": "6000036",
+      "altitudine": 615,
+      "tipo_zona": "naturale",
+      "per_mappa": true,
+      "nome_rete": "Appennino",
+      "comune": "SOGLIANO AL RUBICONE",
+      "parametri_misurati": "NO (Monossido di azoto); NOX (Ossidi di azoto); NO2 (Biossido di azoto); O3 (Ozono); PM10",
+      "sigla_provincia": "FC",
+      "nome": "SAVIGNANO DI RIGO",
+      "cod_ue": "IT2027A",
+      "per_dati": true,
+      "tipo_stazione": "Fondo",
+      "cod_winair": "804015",
+      "loc": {
+        "coordinates": [
+          12.224794,
+          43.927406
+        ],
+        "type": "Point"
+      },
+      "tipo_emissione": "Natura",
+      "per_bollettino": true,
+      "indirizzo": "VIA DEL CIMITERO - SAVIGNANO DI RIGO",
+      "provincia": "FORLI-CESENA",
+      "zona": "Rurale",
+      "_updated": "Wed, 19 Feb 2020 14:25:51 GMT",
+      "_created": "Wed, 02 Jan 2019 09:12:34 GMT",
+      "_etag": "448cd5a663f6db13f97f73d132d16c468482c0e7",
+      "_links": {
+        "self": {
+          "title": "Qualit\u00e0 dell'aria - Anagrafica delle stazioni",
+          "href": "qa_stazioni/6000036"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "parent": {
+      "title": "home",
+      "href": "/"
+    },
+    "self": {
+      "title": "Qualit\u00e0 dell'aria - Anagrafica delle stazioni",
+      "href": "qa_stazioni?where={\"per_mappa\":true}"
+    },
+    "next": {
+      "title": "next page",
+      "href": "qa_stazioni?where={\"per_mappa\":true}&page=2"
+    },
+    "last": {
+      "title": "last page",
+      "href": "qa_stazioni?where={\"per_mappa\":true}&page=2"
+    }
+  },
+  "_meta": {
+    "page": 1,
+    "max_results": 25,
+    "total": 47
+  }
+}
